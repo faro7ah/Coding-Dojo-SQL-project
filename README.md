@@ -33,9 +33,14 @@ This data provided by The yellow and green taxi trip records include fields capt
 
 
 # This project done by group member:
-• Farah Sidina
+• [Farah Sidina](https://github.com/faro7ah)
+
 • [HAILAH ALHARTHI](https://gist.github.com/helah20)
+
+
 • [Rahaf Shiqdar](https://github.com/RahafSh)
+
+
 • [Bedoor Alharbi](https://github.com/ibedoor)
 
 
