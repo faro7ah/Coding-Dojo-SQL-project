@@ -15,7 +15,7 @@ This data provided by The yellow and green taxi trip records include fields capt
 •``BlazingSql``: [BlazingSQL](https://docs.blazingdb.com/docs/blazingsql)is a SQL interface for cuDF, with various features to support large scale data science workflows and enterprise datasets.
 
 
-•`S3 bucket``: We connect to [S3](https://www.youtube.com/watch?time_continue=9&v=_I14_sXHO8U&feature=emb_title) bucket , and creat taxi table from it.
+•``S3 bucket``: We connect to [S3](https://www.youtube.com/watch?time_continue=9&v=_I14_sXHO8U&feature=emb_title) bucket , and creat taxi table from it.
 
 •``matplotlib``: [Visualization tool.](https://matplotlib.org/)
 
