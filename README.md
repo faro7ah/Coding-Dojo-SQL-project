@@ -28,7 +28,6 @@ In this project, we will apply what we've applied on advanced SQL lessons with A
 
 # Resources:
 - https://docs.blazingdb.com/docs/blazingsql
-- https://www.postgresqltutorial.com/postgresql-to_char/
 - https://www.youtube.com/watch?time_continue=9&v=_I14_sXHO8U&feature=emb_title
 
 
