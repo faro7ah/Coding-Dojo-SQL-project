@@ -22,7 +22,7 @@ This data provided by The yellow and green taxi trip records include fields capt
 
 # Describtion of Yellow Taxi Trip Records:
 
-![Yellow Taxi Trip Records](Yellow taxi record.jpg)
+![Yellow Taxi Trip Records](Yellow_taxi.jpg)
 
 
 
