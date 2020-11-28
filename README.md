@@ -5,9 +5,9 @@
 
 This data provided by The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
 
- In this project, we will apply what we've applied on advanced SQL lessons with AWS using  **BlazingSql Jupyter**. We collect informations from the dataset, we answered questions about Yellow Taxi Trip Records, and visualized diversiving type of chart.
- 
- 
+In this project, we will apply what we've applied on advanced SQL lessons with AWS using **BlazingSql Jupyter**. We collected information from the dataset, we answered questions about Yellow Taxi Trip Records. Moreover, we visualized diversifying chart types. 
+
+
 > **This project is a part of [Coding Dojo Data Science course](http://learn.codingdojo.com/m/196/6244/46875) under supervision of the [Saudi Digital Academy](https://sda.edu.sa/ar/hemam)**
 
 
