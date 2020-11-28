@@ -32,7 +32,7 @@ In this project, we will apply what we've applied on advanced SQL lessons with A
 - https://www.youtube.com/watch?time_continue=9&v=_I14_sXHO8U&feature=emb_title
 
 
-# This project done by group member:
+# This project done by group members:
 • [FARAH SIDINA](https://github.com/faro7ah)
 
 • [HAILAH ALHARTHI](https://gist.github.com/helah20)
