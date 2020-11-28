@@ -32,5 +32,15 @@ This data provided by The yellow and green taxi trip records include fields capt
 - https://www.youtube.com/watch?time_continue=9&v=_I14_sXHO8U&feature=emb_title
 
 
+# This project done by group member:
+• Farah Sidina
+• [HAILAH ALHARTHI](https://gist.github.com/helah20)
+• [Rahaf Shiqdar](https://github.com/RahafSh)
+• [Bedoor Alharbi](https://github.com/ibedoor)
+
+
+
+
+
 
 
